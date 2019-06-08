@@ -1,1 +1,3 @@
-This is original sample(new_branch) file.
+
+This is original sample(merged) file.
+
